@@ -5,7 +5,7 @@
 ## 1. A Intangibilidade do Software
 = O software é um produto intelectual e lógico, não físico. Por ser **intangível**, não sofre desgaste mecânico, mas sua manutenção é complexa porque mudanças em uma parte invisível podem colapsar toda a estrutura lógica sem aviso visual prévio.
 
-## 2. Engenharia de Software vs. Programaçã
+## 2. Engenharia de Software vs. Programação
 = A Engenharia de Software é a aplicação de práticas que garantem que o código seja sustentável ao longo do tempo, capaz de crescer apartir do fruto de decisões equilibradas. Programar é criar a solução; Engenharia é manter a solução viva e eficiente.
 
 ## 3. Requisitos Não Funcionais (RNFs)
